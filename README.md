@@ -1,16 +1,16 @@
-# 🎮 Hangman Game
+# Hangman Game
 
 A simple text-based Hangman game built with Python where the player guesses a hidden word one letter at a time.
 
 ---
 
-## 📋 Description
+## Description
 
 The player tries to guess a randomly selected word by entering one letter at a time. Each wrong guess adds a part to the hangman drawing. The game ends when the player either guesses the full word or runs out of 6 chances.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Make sure you have Python installed, then run:
 
@@ -20,7 +20,7 @@ python hangman.py
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 1. Run the program — a welcome screen will appear
 2. A hidden word is randomly selected and shown as underscores `_ _ _ _ _`
@@ -32,7 +32,7 @@ python hangman.py
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 hangman.py     # Main game file
@@ -41,7 +41,7 @@ README.md      # This file
 
 ---
 
-## 💡 Features
+## Features
 
 - Random word selection from a predefined list
 - ASCII hangman drawing that builds with each wrong guess
@@ -52,7 +52,7 @@ README.md      # This file
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 | Concept | Where Used |
 |--------|------------|
@@ -64,7 +64,7 @@ README.md      # This file
 
 ---
 
-## 📝 Word List
+## Word List
 
 The game currently uses these 5 words:
 
@@ -78,13 +78,13 @@ You can add more words by editing the `words` list in `hangman.py`.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.x
 - No external libraries needed
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built as a beginner Python project to practice core programming concepts.
